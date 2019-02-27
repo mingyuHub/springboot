@@ -26,7 +26,7 @@ spring Boot 2.x版本需要jdk1.8或者更高版本支持，maven需要3以上�
 
 ##### 教程：
 
-1. [**spring Boot 2.x | 第一个web应用 hello world**](https://chenmingyu.top/springboot-web/)
+1. spring Boot 2.x | 第一个web应用 hello world**](https://chenmingyu.top/springboot-web/)
 2. [**spring Boot 2.x | 配置文件，自定义配置，多环境配置**](https://chenmingyu.top/springboot-properties/)
 3. [**spring Boot 2.x | 自定义异常 统一返回值 全局异常处理**](https://chenmingyu.top/springboot-exception/)
 4. [**spring Boot 2.x | 日志管理**](https://chenmingyu.top/springboot-log/)
@@ -34,8 +34,8 @@ spring Boot 2.x版本需要jdk1.8或者更高版本支持，maven需要3以上�
 6. [**spring Boot 2.x | 模板引擎 thymeleaf**](https://chenmingyu.top/springboot-thymeleaf/)
 7. [**spring Boot 2.x | 发送文本邮件，HTML邮件，模板邮件**](https://chenmingyu.top/springboot-mail/)
 8. [**spring Boot 2.x | 实现 aop**](https://chenmingyu.top/springboot-aop/)
-9. [**spring Boot 2.x | mybatis（注解方式）**](https://chenmingyu.top/springboot-mybatis-annotation/)
-10. [**spring Boot 2.x | mybatis(xml方式)**](https://chenmingyu.top/springboot-mybatis-xml/)
-11. [**spring Boot 2.x | 集成 redis**](https://chenmingyu.top/springboot-redis/)
+9. [**spring Boot 2.x | mybatis-注解方式**](https://chenmingyu.top/springboot-mybatis-annotation/)
+10. [**spring Boot 2.x | mybatis-xml方式**](https://chenmingyu.top/springboot-mybatis-xml/)
+11. [**spring Boot 2.x | 集成 redis**](
 
 
