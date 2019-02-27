@@ -1,0 +1,3 @@
+com\my\example\domain\User.class
+com\my\example\SpringbootMybatisApplication.class
+com\my\example\dao\UserMapper.class

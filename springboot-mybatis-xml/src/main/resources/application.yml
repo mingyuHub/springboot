@@ -1,0 +1,13 @@
+spring:
+  #mysql配置
+  datasource:
+    driver-class-name: com.mysql.jdbc.Driver
+    url: jdbc:mysql://127.0.0.1:3306/wtx?useUnicode=true&characterEncoding=utf8&useSSL=false
+    username: root
+    password: root
+
+mybatis:
+  #mybatis xml文件文件地址
+  mapper-locations: classpath:mapper/*.xml
+  #批量扫描别名包地址
+  type-aliases-package: com.my.example.domain
