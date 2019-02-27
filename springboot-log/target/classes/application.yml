@@ -1,5 +1,0 @@
-logging:
-  level:
-    com.my.log: debug # com.my.log���µ���־����Ϊ info
-  file: info.log #��־�ļ�λ�ã����������·����Ҳ�����Ǿ���·��
-  
