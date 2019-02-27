@@ -1,0 +1,9 @@
+spring:
+  thymeleaf:
+    mode: HTML5
+    servlet:
+      content-type: text/html
+    cache: false #是否开启缓存
+    encoding: UTF-8 #编码
+    prefix: classpath:/templates/ #模板路径
+    suffix: .html # 后缀
