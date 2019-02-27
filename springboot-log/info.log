@@ -1,0 +1,10 @@
+2019-02-26 17:55:02.672  INFO 15840 --- [main] c.my.log.SpringbootLogApplicationTests   : Starting SpringbootLogApplicationTests on ZB-PF0WMECL with PID 15840 (started by chenmingyu in E:\my\project\my-springboot\springboot-log)
+2019-02-26 17:55:02.676 DEBUG 15840 --- [main] c.my.log.SpringbootLogApplicationTests   : Running with Spring Boot v2.1.0.RELEASE, Spring v5.1.2.RELEASE
+2019-02-26 17:55:02.679  INFO 15840 --- [main] c.my.log.SpringbootLogApplicationTests   : No active profile set, falling back to default profiles: default
+2019-02-26 17:55:04.168  INFO 15840 --- [main] o.s.s.concurrent.ThreadPoolTaskExecutor  : Initializing ExecutorService 'applicationTaskExecutor'
+2019-02-26 17:55:04.436  INFO 15840 --- [main] c.my.log.SpringbootLogApplicationTests   : Started SpringbootLogApplicationTests in 2.233 seconds (JVM running for 3.245)
+2019-02-26 17:55:04.608 ERROR 15840 --- [main] c.my.log.SpringbootLogApplicationTests   : 日志级别：error
+2019-02-26 17:55:04.608  WARN 15840 --- [main] c.my.log.SpringbootLogApplicationTests   : 日志级别：warn
+2019-02-26 17:55:04.609  INFO 15840 --- [main] c.my.log.SpringbootLogApplicationTests   : 日志级别：info
+2019-02-26 17:55:04.609 DEBUG 15840 --- [main] c.my.log.SpringbootLogApplicationTests   : 日志级别：debug
+2019-02-26 17:55:04.614  INFO 15840 --- [Thread-2] o.s.s.concurrent.ThreadPoolTaskExecutor  : Shutting down ExecutorService 'applicationTaskExecutor'
